@@ -28,12 +28,18 @@ java/src/bg/sofia/uni/fmi/mjt/smartcity/
 (+) Checkstyle && PMD
 => a system that keeps track of smart devices
 
-(+) clean code for all
-
-|     |     |     |
-V     V     V     V
+-------------(+) clean code for all--------------------
 
 5.
 java/src/bg/sofia/uni/fmi/mjt/warehouse/
 (+) introducing Generics
 => warehouse system
+
+java/test.. -> tests for corresponding classes in src folder.
+
+6.
+java/src/bg/sofia/uni/fmi/mjt/shopping/
+java/test/bg/sofia/uni/fmi/mjt/shopping/
+(+) unit tests
+(+) mocking
+=> shop with products and set, which we dont implement on purpose, containing relative prices and info about products
