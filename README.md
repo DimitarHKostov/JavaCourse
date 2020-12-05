@@ -50,4 +50,5 @@ java/test/bg/sofia/uni/fmi/mjt/tagger/
 (+) IO streams in java
 (+) working with file directory
 (+) in this task designing the class in a way that enables easier testing (working with readers && writers instead of files)
+//text.txt && world-cities.csv used for tests for this task
 => tagger that finds cities and marks them according to given set
