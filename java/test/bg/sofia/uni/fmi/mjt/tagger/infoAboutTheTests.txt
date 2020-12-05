@@ -1,0 +1,5 @@
+!!! The following implies only for Tagger !!!
+I was not happy with the first implementation.
+So i tried another one, and another one..
+I was not happy with the first 3 tries yet.
+So i`ve came to conclusion to do a 4th one.
