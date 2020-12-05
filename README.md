@@ -43,3 +43,11 @@ java/test/bg/sofia/uni/fmi/mjt/shopping/
 (+) unit tests
 (+) mocking
 => shop with products and set, which we dont implement on purpose, containing relative prices and info about products
+
+7.
+java/src/bg/sofia/uni/fmi/mjt/tagger/
+java/test/bg/sofia/uni/fmi/mjt/tagger/
+(+) IO streams in java
+(+) working with file directory
+(+) in this task designing the class in a way that enables easier testing (working with readers && writers instead of files)
+=> tagger that finds cities and marks them according to given set
