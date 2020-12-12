@@ -52,3 +52,10 @@ java/test/bg/sofia/uni/fmi/mjt/tagger/
 (+) in this task designing the class in a way that enables easier testing (working with readers && writers instead of files)
 //text.txt && world-cities.csv used for tests for this task
 => tagger that finds cities and marks them according to given set
+
+8.
+java/src/bg/sofia/uni/fmi/mjt/spotify/
+java/test/bg/sofia/uni/fmi/mjt/spotify/
+(+) lambdas in java
+(+) stream API
+=> spotify system that solves tasks related to tracks using the stream api
