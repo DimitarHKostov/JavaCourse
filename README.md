@@ -59,3 +59,9 @@ java/test/bg/sofia/uni/fmi/mjt/spotify/
 (+) lambdas in java
 (+) stream API
 => spotify system that solves tasks related to tracks using the stream api
+
+9.
+java/src/bg/sofia/uni/fmi/mjt/restaurant/
+java/test/bg/sofia/uni/fmi/mjt/restaurant/
+(+) threads in java
+=> restaurant simulation with customers and chefs
