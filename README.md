@@ -65,3 +65,10 @@ java/src/bg/sofia/uni/fmi/mjt/restaurant/
 java/test/bg/sofia/uni/fmi/mjt/restaurant/
 (+) threads in java
 => restaurant simulation with customers and chefs
+
+10.
+--separate projects
+lab10/
+java/src/bg/sofia/uni/fmi/mjt/wish/list/
+(+) client server communication(using java.net)
+=> secret santa representation (server=santa, clients=students)
